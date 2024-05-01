@@ -10,7 +10,7 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-Bytt eventuelt ut python3 med navnet på python-programmet (antageligvis `py` eller `python`) som er installert.
+Bytt eventuelt ut python med navnet på python-programmet (antageligvis `py` eller `python3` hvis `python` ikke funker) som er installert.
 
 
 ## Kjøring
